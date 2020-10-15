@@ -49,3 +49,22 @@ x + y
 ## create a vector, z, using `c` with
 ## two elements, the first being x and the second being y
 
+
+
+
+#### Task 6 ####
+## multiply this vector z by 2.5
+
+
+
+#### Task 7 ####
+## create a vector a, containing the numbers from 1 to 20.
+## what is the result if you run `typeof` on a?
+## what about of a/2 ?
+
+
+### Task 8 ####
+## construct a 2x2 matrix B, with first row containing 2,1
+## and second row containing -1,0
+## what is z%*B ?
+## what is B%*%z?
