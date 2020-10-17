@@ -17,3 +17,22 @@ flights
 
 
 #### Task 3 ####
+## lets count how many flights occur in each month
+
+
+
+
+#### Task 4 ####
+## using the previous task, we want to rearrange the number of 
+## flights, showing the month with the most flights
+## first. we do this using `arrange`. You can 
+## look it up by running `?arrange`
+
+
+
+
+#### Task 5 ####
+## filter the data to only look at flights which
+## are delayed (have a positive `dep_delay`),
+## and see how many of these come from each origin airport in the
+## dataset
